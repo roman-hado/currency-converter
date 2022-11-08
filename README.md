@@ -1,6 +1,6 @@
 # Currency Converter
 
-You can see demo link [HERE](https://github.com/facebook/create-react-app).
+You can see demo link [HERE](https://roman-hado.github.io/currency-converter/).
 
 # Getting Started with Create React App
 
